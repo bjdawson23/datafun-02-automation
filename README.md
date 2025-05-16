@@ -40,17 +40,6 @@ Run Python scripts using the following commands:
    py greet_user.py
    ```
 
-## CheatSheet: Git Add-Commit-Push
-
-Use the following commands to add, commit, and push changes to Git:
-
-   ```powershell
-   git add .
-   git commit -m "custom message"
-   git push -u origin main
-   git push
-   ```
-
 ## Installed TODO Highlight "highlight TODOs, FIXMEs, and any keywords, annotations"
 
 ## Every Work Session
@@ -65,3 +54,24 @@ Many projects span several days. When starting work again, remember to:
    04a-activate-and-run-python-script.md
    05-modify-and-test.md
    06-git-add-commit-push.md
+
+## P2 Datafun
+
+1. Setup Project folder
+2. Added and import module 1 util to project folder
+3. Added branton_project_setup.py to folder
+4. Used example project setup python file and modified
+5. Used range, list, while and for loops in most functions and logged results
+6. Imported the time module for function 4
+
+## CheatSheet: Git Add-Commit-Push
+
+Use the following commands to add, commit, and push changes to Git:
+
+   ```powershell
+   git add .
+   git commit -m "custom message"
+   git push -u origin main
+   git pull origin main
+   git push
+   ```
